@@ -5,6 +5,15 @@ Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 
 ## Download
 
+### The Jasmine Tea (茉莉香片)
+
+> Written by [Chang Ai-ling](https://zh.wikipedia.org/wiki/張愛玲) (張愛玲)
+
+* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/chang-ai-ling/dist/jasmine-tea.pdf)
+
+* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/chang-ai-ling/tex/jasmine-tea.tex)
+
+
 ### The Complete Manual of Suicide
 
 > Written by [Tsurumi Wataru](https://ja.wikipedia.org/wiki/鶴見済)
