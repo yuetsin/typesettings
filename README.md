@@ -1,6 +1,7 @@
 # typesettings
 Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 
+> ⚠️Warning: Not all of these pieces are under `Public Domain`.
 ---
 
 ## Download
