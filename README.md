@@ -20,6 +20,8 @@ Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 
 > Written by [Chang Ai-ling](https://zh.wikipedia.org/wiki/張愛玲) (張愛玲)
 
+> Originally Published in `《杂志》 Vol.11 Season 4`, `July 1943`
+
 * [PDF Document](https://github.com/yuetsin/typesettings/raw/master/chang-ai-ling/dist/jasmine-tea.pdf)
 
 * [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/chang-ai-ling/tex/jasmine-tea.tex)
