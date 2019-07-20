@@ -5,6 +5,17 @@ Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 
 ## Download
 
+### Tales of Hulan River (呼兰河传)
+
+> Written by [Xiao Hong](https://zh.wikipedia.org/wiki/萧红) (萧红)
+
+> Originally Published by 桂林河山出版社, `1941`
+
+* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/xiao-hong/dist/tales-of-hulan-river.pdf)
+
+* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/xiao-hong/tex/tales-of-hulan-river.tex)
+
+
 ### The Jasmine Tea (茉莉香片)
 
 > Written by [Chang Ai-ling](https://zh.wikipedia.org/wiki/張愛玲) (張愛玲)
