@@ -9,7 +9,7 @@ Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 
 > Written by [Xiao Hong](https://zh.wikipedia.org/wiki/萧红) (萧红)
 
-> Originally Published by 桂林河山出版社, `1941`
+> Originally Published by `桂林河山出版社`, `1941`
 
 * [PDF Document](https://github.com/yuetsin/typesettings/raw/master/xiao-hong/dist/tales-of-hulan-river.pdf)
 
@@ -31,7 +31,7 @@ Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 
 > Written by [Tsurumi Wataru](https://ja.wikipedia.org/wiki/鶴見済) (鶴見 済)
 
-> Translated by 丁申, Originally Published by 台湾茉莉出版事业公司, `1994/12/01`
+> Translated by 丁申, Originally Published by `台湾茉莉出版事业公司`, `1994/12/01`
 
 * [PDF Document](https://github.com/yuetsin/typesettings/raw/master/tsurumi-wataru/dist/the-complete-manual-of-suicide.pdf)
 
