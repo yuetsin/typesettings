@@ -11,6 +11,14 @@ Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 ---
 ## Download
 
+### The Everlasting Regret (长恨歌)
+
+> Written by [Bai Juyi](https://zh.wikipedia.org/zh/白居易) (白居易) in `806`
+
+* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/bai-juyi/dist/the-everlasting-regret.pdf)
+
+* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/bai-juyi/tex/the-everlasting-regret.tex)
+
 ### Tales of Hulan River (呼兰河传)
 
 > Written by [Xiao Hong](https://zh.wikipedia.org/wiki/萧红) (萧红)
