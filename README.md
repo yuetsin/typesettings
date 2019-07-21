@@ -4,6 +4,11 @@ Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 > ⚠️Warning: Not all of these pieces are under `Public Domain`.
 ---
 
+## Font License
+
+[`adobe-fonts/source-han-serif`](https://github.com/adobe-fonts/source-han-serif) under [SIL Open Font License 1.1](https://github.com/adobe-fonts/source-han-serif/blob/master/LICENSE.txt)
+
+---
 ## Download
 
 ### Tales of Hulan River (呼兰河传)
