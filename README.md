@@ -41,7 +41,7 @@ Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 * [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/chang-ai-ling/tex/jasmine-tea.tex)
 
 
-### The Complete Manual of Suicide
+### The Complete Manual of Suicide (完全自殺マニュアル)
 
 > Written by [Tsurumi Wataru](https://ja.wikipedia.org/wiki/鶴見済) (鶴見 済)
 
@@ -51,7 +51,7 @@ Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 
 * [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/tsurumi-wataru/tex/the-complete-manual-of-suicide.tex)
 
-### Death Related Notes
+### Throw Away Your Books, Rally in the Streets (Partial) (书を舍てよ町へ出よう)
 
 > Written by [Shuji Terayama](https://ja.wikipedia.org/wiki/寺山修司) (寺山 修司)
 
