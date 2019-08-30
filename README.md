@@ -1,7 +1,7 @@
 # typesettings
 Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 
-> ⚠️Warning: Not all of these pieces are under `Public Domain`.
+> ⚠️ Warning: Not all of these pieces are under `Public Domain`.
 ---
 
 ## Font License
@@ -42,6 +42,8 @@ Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 
 
 ### The Complete Manual of Suicide (完全自殺マニュアル)
+
+> ⚠️ Warning: NOT SUITABLE FOR CHILDREN OR THOSE WHO ARE EASILY DISTURBED
 
 > Written by [Tsurumi Wataru](https://ja.wikipedia.org/wiki/鶴見済) (鶴見 済)
 
