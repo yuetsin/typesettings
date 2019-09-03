@@ -1,0 +1,32 @@
+\documentclass[UTF8]{ctexart}
+%制作诗歌显示环境
+\usepackage{tcolorbox}
+
+\newenvironment{poem}[3] %code={\doublespacing},
+{\begin{tcolorbox}[left=1mm,right=1mm,top=3mm,bottom=2mm,enhanced,breakable,pad at break*=.5mm,title=#2,
+        colframe=blue!50!black,colback=blue!10!white,colbacktitle=blue!5!myred!10!white,
+        fonttitle=\Large\HGBM,coltitle=black,attach boxed title to top center=
+        {yshift=-0.25mm-\tcboxedtitleheight/2,yshifttext=2mm-\tcboxedtitleheight/2},
+        boxed title style={boxrule=0.5mm,
+            frame code={ \path[tcb fill frame] ([xshift=-4mm]frame.west)
+                -- (frame.north west) -- (frame.north east) -- ([xshift=4mm]frame.east)
+                -- (frame.south east) -- (frame.south west) -- cycle; },
+            interior code={ \path[tcb fill interior] ([xshift=-2mm]interior.west)
+                -- (interior.north west) -- (interior.north east)
+                -- ([xshift=2mm]interior.east) -- (interior.south east) -- (interior.south west)
+                -- cycle;} }]
+      \index[ian]{#1!#2}\index[ibn]{#2［#1］}\begin{pinyinscope} \begin{center}\subsectionmark{#2}\phantomsection
+      \addcontentsline{toc}{subsection}{#2}\label{#1《#2》}\hypertarget{#1《#2》}
+      \LARGE\linespread{1.4}\selectfont #3  %\HGBUM\ZSKS
+    }
+{\end{center}\end{pinyinscope}\end{tcolorbox}}
+
+\begin{document}
+\section{薛正明}
+\begin{poemz}{薛正明}{遊鴈蕩}
+    東風驛路馬蹄香，曉起行春到夕陽。\\
+    三月鶯啼花柳寺，幾家人住水雲鄉。\\
+    名山不用問樵字，清世何須憂廟廊。\\
+    且脫綸巾隨洞客，紫簫吹月夜天涼。
+\end{poemz}
+\end{document}
