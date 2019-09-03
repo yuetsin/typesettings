@@ -1,7 +1,7 @@
 # typesettings
-Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
+Some LaTeX based TypeSettings Attempts.
 
-> ⚠️Warning: Not all of these pieces are under `Public Domain`.
+> ⚠️ Warning: Not all of these pieces are under `Public Domain`.
 ---
 
 ## Font License
@@ -10,6 +10,14 @@ Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 
 ---
 ## Download
+
+### The Everlasting Regret (长恨歌)
+
+> Written by [Bai Juyi](https://zh.wikipedia.org/zh/白居易) (白居易) in `806`
+
+* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/bai-juyi/dist/the-everlasting-regret.pdf)
+
+* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/bai-juyi/tex/the-everlasting-regret.tex)
 
 ### Tales of Hulan River (呼兰河传)
 
@@ -33,7 +41,9 @@ Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 * [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/chang-ai-ling/tex/jasmine-tea.tex)
 
 
-### The Complete Manual of Suicide
+### The Complete Manual of Suicide (完全自殺マニュアル)
+
+> ⚠️ Warning: NOT SUITABLE FOR CHILDREN OR THOSE WHO ARE EASILY DISTURBED
 
 > Written by [Tsurumi Wataru](https://ja.wikipedia.org/wiki/鶴見済) (鶴見 済)
 
@@ -43,7 +53,9 @@ Some LaTeX based TypeSettings Attempts. **no warranty for any consequences**
 
 * [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/tsurumi-wataru/tex/the-complete-manual-of-suicide.tex)
 
-### Death Related Notes
+### Throw Away Your Books, Rally in the Streets (Partial) (书を舍てよ町へ出よう)
+
+> ⚠️ Warning: NOT SUITABLE FOR CHILDREN OR THOSE WHO ARE EASILY DISTURBED
 
 > Written by [Shuji Terayama](https://ja.wikipedia.org/wiki/寺山修司) (寺山 修司)
 
