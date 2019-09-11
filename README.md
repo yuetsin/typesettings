@@ -13,6 +13,14 @@ Build them with `XeLaTeX`.
 ---
 ## Download
 
+### The Peach Blossom Fan (桃花扇/餘韻)
+
+> Written by [Kong Shangren](https://zh.wikipedia.org/zh/孔尚任) (孔尚任) in `康熙三十八年 (1699)`
+
+* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/kong-shangren/dist/the-peach-blossom-fan.pdf)
+
+* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/kong-shangren/tex/the-peach-blossom-fan.tex)
+
 ### The Everlasting Regret (长恨歌)
 
 > Written by [Bai Juyi](https://zh.wikipedia.org/zh/白居易) (白居易) in `806`
