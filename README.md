@@ -1,5 +1,7 @@
 # typesettings
-Some LaTeX based TypeSettings Attempts.
+Some `LaTeX` based TypeSettings Attempts.
+
+Build them with `XeLaTeX`.
 
 > ⚠️ Warning: Not all of these pieces are under `Public Domain`.
 ---
@@ -40,6 +42,15 @@ Some LaTeX based TypeSettings Attempts.
 
 * [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/chang-ai-ling/tex/jasmine-tea.tex)
 
+### Chui Bing (「吹兵」)
+
+> Written by [Echo Chan](https://zh.wikipedia.org/wiki/三毛_(作家)) (三毛)
+
+> Originally Published as `雨季不再来`, by `皇冠文化出版有限公司`, `1976`
+
+* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/echo-chan/dist/chui-bing.pdf)
+
+* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/echo-chan/tex/chui-bing.tex)
 
 ### The Complete Manual of Suicide (完全自殺マニュアル)
 
