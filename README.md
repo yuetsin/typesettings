@@ -1,4 +1,7 @@
 # typesettings
+
+![Build Status](https://github.com/yuetsin/typesettings/workflows/pdf%20build/badge.svg)
+
 Some `LaTeX` based TypeSettings Attempts.
 
 Build them with `XeLaTeX`.
