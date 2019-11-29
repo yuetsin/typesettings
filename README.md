@@ -16,6 +16,15 @@ Build them with `XeLaTeX`.
 ---
 ## Download
 
+### Diary of a Man in Despair (绝望者日记：纳粹德国时期的政治与社会生活)
+
+> Written by Friedrich Lake, Translated by 何为宁
+
+* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/friedrich-lake/dist/diary-of-a-man-in-despair.pdf)
+
+* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/friedrich-lake/tex/diary-of-a-man-in-despair.tex)
+
+
 ### The Peach Blossom Fan (桃花扇/餘韻)
 
 > Written by [Kong Shangren](https://zh.wikipedia.org/zh/孔尚任) (孔尚任) in `康熙三十八年 (1699)`
