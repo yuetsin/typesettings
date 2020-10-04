@@ -95,9 +95,9 @@ Build them with `XeLaTeX`.
 
 > Originally Published in `《儿童文学》`
 
-* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/li-dan/dist/hsia-lo-lo-ti-chiu-tien.pdf)
+* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/li-dan/dist/hsia-lo-lo-te-chiu-tien.pdf)
 
-* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/li-dan/tex/hsia-lo-lo-ti-chiu-tien.tex)
+* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/li-dan/tex/hsia-lo-lo-te-chiu-tien.tex)
 
 #### Chui Bing (「吹兵」)
 
