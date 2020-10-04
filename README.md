@@ -16,7 +16,9 @@ Build them with `XeLaTeX`.
 ---
 ## Download
 
-### Diary of a Man in Despair (绝望者日记：纳粹德国时期的政治与社会生活)
+### Full Length
+
+#### Diary of a Man in Despair (绝望者日记：纳粹德国时期的政治与社会生活)
 
 > Written by Friedrich Lake, Translated by 何为宁
 
@@ -24,16 +26,7 @@ Build them with `XeLaTeX`.
 
 * [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/friedrich-lake/tex/diary-of-a-man-in-despair.tex)
 
-
-### The Peach Blossom Fan (桃花扇/餘韻)
-
-> Written by [Kong Shangren](https://zh.wikipedia.org/zh/孔尚任) (孔尚任) in `康熙三十八年 (1699)`
-
-* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/kong-shangren/dist/the-peach-blossom-fan.pdf)
-
-* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/kong-shangren/tex/the-peach-blossom-fan.tex)
-
-### The Everlasting Regret (长恨歌)
+#### The Everlasting Regret (長恨歌)
 
 > Written by [Bai Juyi](https://zh.wikipedia.org/zh/白居易) (白居易) in `元和元年 (806)`
 
@@ -41,9 +34,9 @@ Build them with `XeLaTeX`.
 
 * [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/bai-juyi/tex/the-everlasting-regret.tex)
 
-### Tales of Hulan River (呼兰河传)
+#### Tales of Hulan River (呼蘭河傳)
 
-> Written by [Xiao Hong](https://zh.wikipedia.org/wiki/萧红) (萧红)
+> Written by [Xiao Hong](https://zh.wikipedia.org/wiki/萧红) (蕭紅)
 
 > Originally Published by `桂林河山出版社`, `民國三十年 (1941)`
 
@@ -51,28 +44,7 @@ Build them with `XeLaTeX`.
 
 * [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/xiao-hong/tex/tales-of-hulan-river.tex)
 
-
-### The Jasmine Tea (茉莉香片)
-
-> Written by [Chang Ai-ling](https://zh.wikipedia.org/wiki/張愛玲) (張愛玲)
-
-> Originally Published in `《杂志》 Vol.11 Season 4`, `July 1943`
-
-* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/chang-ai-ling/dist/jasmine-tea.pdf)
-
-* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/chang-ai-ling/tex/jasmine-tea.tex)
-
-### Chui Bing (「吹兵」)
-
-> Written by [Echo Chan](https://zh.wikipedia.org/wiki/三毛_(作家)) (三毛)
-
-> Originally Published as `雨季不再来`, by `皇冠文化出版有限公司`, `1976`
-
-* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/echo-chan/dist/chui-bing.pdf)
-
-* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/echo-chan/tex/chui-bing.tex)
-
-### The Complete Manual of Suicide (完全自殺マニュアル)
+#### The Complete Manual of Suicide (完全自殺マニュアル)
 
 > ⚠️ Warning: NOT SUITABLE FOR CHILDREN OR THOSE WHO ARE EASILY DISTURBED
 
@@ -84,7 +56,7 @@ Build them with `XeLaTeX`.
 
 * [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/tsurumi-wataru/tex/the-complete-manual-of-suicide.tex)
 
-### Throw Away Your Books, Rally in the Streets (Partial) (书を舍てよ町へ出よう)
+#### Throw Away Your Books, Rally in the Streets (Partial) (书を舍てよ町へ出よう)
 
 > ⚠️ Warning: NOT SUITABLE FOR CHILDREN OR THOSE WHO ARE EASILY DISTURBED
 
@@ -97,3 +69,43 @@ Build them with `XeLaTeX`.
 * [PostScript Document](https://github.com/yuetsin/typesettings/raw/master/shuji-terayama/dist/death-related-notes.ps)
 
 * [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/shuji-terayama/tex/death-related-notes.tex)
+
+### Novellas
+
+#### The Peach Blossom Fan (桃花扇/餘韻)
+
+> Written by [Kong Shangren](https://zh.wikipedia.org/zh/孔尚任) (孔尚任) in `康熙三十八年 (1699)`
+
+* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/kong-shangren/dist/the-peach-blossom-fan.pdf)
+
+* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/kong-shangren/tex/the-peach-blossom-fan.tex)
+
+#### The Jasmine Tea (茉莉香片)
+
+> Written by [Chang Ai-ling](https://zh.wikipedia.org/wiki/張愛玲) (張愛玲)
+
+> Originally Published in `《杂志》 Vol.11 Season 4`, `July 1943`
+
+* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/chang-ai-ling/dist/jasmine-tea.pdf)
+* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/chang-ai-ling/tex/jasmine-tea.tex)
+
+#### Hsia Lo-lo's Autumn (夏洛洛的秋天)
+
+> Written by Li Dan (李丹)
+
+> Originally Published in `《儿童文学》`
+
+* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/li-dan/dist/hsia-lo-lo-ti-chiu-tien.pdf)
+
+* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/li-dan/tex/hsia-lo-lo-ti-chiu-tien.tex)
+
+#### Chui Bing (「吹兵」)
+
+> Written by [Echo Chan](https://zh.wikipedia.org/wiki/三毛_(作家)) (三毛)
+
+> Originally Published as `雨季不再来`, by `皇冠文化出版有限公司`, `1976`
+
+* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/echo-chan/dist/chui-bing.pdf)
+
+* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/echo-chan/tex/chui-bing.tex)
+
