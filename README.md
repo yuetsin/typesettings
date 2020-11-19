@@ -22,27 +22,15 @@ Build them with `XeLaTeX`.
 
 > Written by Friedrich Lake, Translated by 何为宁
 
-* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/friedrich-lake/dist/diary-of-a-man-in-despair.pdf)
-
-* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/friedrich-lake/tex/diary-of-a-man-in-despair.tex)
-
 #### The Everlasting Regret (長恨歌)
 
 > Written by [Bai Juyi](https://zh.wikipedia.org/zh/白居易) (白居易) in `元和元年 (806)`
-
-* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/bai-juyi/dist/the-everlasting-regret.pdf)
-
-* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/bai-juyi/tex/the-everlasting-regret.tex)
 
 #### Tales of Hulan River (呼蘭河傳)
 
 > Written by [Xiao Hong](https://zh.wikipedia.org/wiki/萧红) (蕭紅)
 
 > Originally Published by `桂林河山出版社`, `民國三十年 (1941)`
-
-* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/xiao-hong/dist/tales-of-hulan-river.pdf)
-
-* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/xiao-hong/tex/tales-of-hulan-river.tex)
 
 #### The Complete Manual of Suicide (完全自殺マニュアル)
 
@@ -52,10 +40,6 @@ Build them with `XeLaTeX`.
 
 > Translated by 丁申, Originally Published by `台湾茉莉出版事业公司`, `1994/12/01`
 
-* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/tsurumi-wataru/dist/the-complete-manual-of-suicide.pdf)
-
-* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/tsurumi-wataru/tex/the-complete-manual-of-suicide.tex)
-
 #### Throw Away Your Books, Rally in the Streets (Partial) (书を舍てよ町へ出よう)
 
 > ⚠️ Warning: NOT SUITABLE FOR CHILDREN OR THOSE WHO ARE EASILY DISTURBED
@@ -64,21 +48,11 @@ Build them with `XeLaTeX`.
 
 > Translated by [HIDETOKAZU](https://www.douban.com/people/HIDETOKAZU/)
 
-* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/shuji-terayama/dist/death-related-notes.pdf)
-
-* [PostScript Document](https://github.com/yuetsin/typesettings/raw/master/shuji-terayama/dist/death-related-notes.ps)
-
-* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/shuji-terayama/tex/death-related-notes.tex)
-
 ### Novellas
 
 #### The Peach Blossom Fan (桃花扇/餘韻)
 
 > Written by [Kong Shangren](https://zh.wikipedia.org/zh/孔尚任) (孔尚任) in `康熙三十八年 (1699)`
-
-* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/kong-shangren/dist/the-peach-blossom-fan.pdf)
-
-* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/kong-shangren/tex/the-peach-blossom-fan.tex)
 
 #### The Jasmine Tea (茉莉香片)
 
@@ -86,18 +60,11 @@ Build them with `XeLaTeX`.
 
 > Originally Published in `《杂志》 Vol.11 Season 4`, `July 1943`
 
-* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/chang-ai-ling/dist/jasmine-tea.pdf)
-* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/chang-ai-ling/tex/jasmine-tea.tex)
-
 #### Hsia Lo-lo's Autumn (夏洛洛的秋天)
 
 > Written by Li Dan (李丹)
 
 > Originally Published in `《儿童文学》`
-
-* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/li-dan/dist/hsia-lo-lo-te-chiu-tien.pdf)
-
-* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/li-dan/tex/hsia-lo-lo-te-chiu-tien.tex)
 
 #### Chui Bing (「吹兵」)
 
@@ -105,7 +72,8 @@ Build them with `XeLaTeX`.
 
 > Originally Published as `雨季不再来`, by `皇冠文化出版有限公司`, `1976`
 
-* [PDF Document](https://github.com/yuetsin/typesettings/raw/master/echo-chan/dist/chui-bing.pdf)
+#### Tales of Hulan River (花狗)
 
-* [Raw TeX](https://github.com/yuetsin/typesettings/raw/master/echo-chan/tex/chui-bing.tex)
+> Written by [Xiao Hong](https://zh.wikipedia.org/wiki/萧红) (萧红)
 
+> Originally Published in `August 5th, 1939`
