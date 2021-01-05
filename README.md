@@ -13,6 +13,8 @@ Build them with `XeLaTeX`.
 
 [`adobe-fonts/source-han-serif`](https://github.com/adobe-fonts/source-han-serif) under [SIL Open Font License 1.1](https://github.com/adobe-fonts/source-han-serif/blob/master/LICENSE.txt)
 
+[`fandol`](https://ctan.org/pkg/fandol) under [GNU General Public License](https://ctan.org/license/gpl)
+
 ---
 ## Download
 
