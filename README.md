@@ -79,3 +79,9 @@ Compile them with `XeLaTeX`.
 > Written by [Xiao Hong](https://zh.wikipedia.org/wiki/萧红) (萧红)
 
 > Originally Published in `August 5th, 1939`
+
+#### The Boy in Water (水中的男孩)
+
+> Written by Sun Jiancheng (孙建成)
+
+> Originally Published in `儿童文学`
