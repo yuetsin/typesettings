@@ -4,7 +4,7 @@
 
 Some `LaTeX` based TypeSettings Attempts.
 
-Build them with `XeLaTeX`.
+Compile them with `XeLaTeX`.
 
 > ⚠️ Warning: Not all of these pieces are under `Public Domain`.
 ---
