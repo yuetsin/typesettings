@@ -1,0 +1,32 @@
+%-*- coding: UTF-8 -*-
+
+\documentclass[UTF8]{ctexart}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{color}
+\usepackage{CJKpunct}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{listings}
+\geometry{a4paper,centering,scale=0.8}
+\usepackage[format=hang,font=small,textfont=it]{caption}
+\usepackage[nottoc]{tocbibind}
+\setCJKmainfont{STSongti-SC-Light}
+\setmonofont{Courier}
+\punctstyle{quanjiao}
+
+\lstset{
+	basicstyle=\setmainfont{Courier New}
+}
+
+\begin{document}
+由于原因，不提供 \textit{The Complete Manual of Suicide} 的 PDF 版本。如有需要，请手动编译：
+
+\begin{lstlisting}
+$ xelatex ./the-complete-manual-of-_______.tex
+\end{lstlisting}
+
+请确认有正确配置 \LaTeX 编译环境和 STSongti-SC-Light（思源宋体简细）、FandolSong 字体样式。
+
+\end{document}
