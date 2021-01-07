@@ -1,6 +1,6 @@
 # Notice
 
-由于原因，不提供 `The Complete Manual of Suicide` 的 PDF 版本。如有需要，请手动编译：
+由于原因，不提供 `The Complete Manual of Xxxxxxx` 的 PDF 版本。如有需要，请手动编译：
 
 ```shell
 $ xelatex ./the-complete-manual-of-_______.tex
