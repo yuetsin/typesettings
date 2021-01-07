@@ -42,6 +42,8 @@ Compile them with `XeLaTeX`.
 
 > Translated by 丁申, Originally Published by `台湾茉莉出版事业公司`, `1994/12/01`
 
+> Simplified Chinese Version Revisioned by `Rena`、`Yuri`
+
 #### Throw Away Your Books, Rally in the Streets (Partial) (书を舍てよ町へ出よう)
 
 > ⚠️ Warning: NOT SUITABLE FOR CHILDREN OR THOSE WHO ARE EASILY DISTURBED
