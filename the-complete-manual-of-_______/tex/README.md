@@ -6,4 +6,4 @@
 $ xelatex ./the-complete-manual-of-_______.tex
 ```
 
-请确认有正确配置 `XeLaTeX` 编译环境和 `STSongti-SC-Light`（思源宋体简细）、`FandolSong` 字体样式。
+请确认有正确配置 `XeLaTeX` 编译环境和 `STSongti-SC-Light`、`FandolSong` 字体样式。
