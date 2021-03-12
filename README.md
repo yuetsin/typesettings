@@ -54,6 +54,14 @@ Compile them with `XeLaTeX`.
 
 ### Novellas
 
+#### Child's Play (儿戏)
+
+> Written by [Alice Munro](https://en.wikipedia.org/wiki/Alice_Munro)
+
+> Originally Published in `Too Much Happiness`
+
+> Translated by `张小意`
+
 #### The Peach Blossom Fan (桃花扇/餘韻)
 
 > Written by [Kong Shangren](https://zh.wikipedia.org/zh/孔尚任) (孔尚任) in `康熙三十八年 (1699)`
